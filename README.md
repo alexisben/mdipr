@@ -1,0 +1,4 @@
+mdipr
+=====
+
+Dipr Mobile version
